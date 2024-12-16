@@ -1,0 +1,11 @@
+@import "bootstrap/dist/css/bootstrap";
+
+.space-x-4 > * {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.space-y-4 > * {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
